@@ -4,15 +4,13 @@
 ### EDUCATION
 
 Indiana University Purdue University-Indianapolis <span style="float: right; ">2021-2024</span>  
-Master of Library and Information Science
-
+Master of Library and Information Science  
 Specialization: Digital Curation
 **Revelant Coursework**  
 Database Design, Digital Curation and Management, Digital Preservation, Electronic Records Management, Metadata, and Tools for Digital Preservation  
  
 Purdue University <span style="float: right; ">Dur2008-2012</span>  
-Bachelor of Arts in Communication
-
+Bachelor of Arts in Communication  
 Minor: Latin America and Latino Studies 
 
 ### EXPERIENCE
@@ -41,6 +39,5 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique. 
 
 ### SKILLS
-**Tools**: Archive-It, ArchivesSpace, BagIt, Conifer, CONTENTdm, DataAccessioner, Omeka, SQL (MySQL), Tableau, The Museum System (TMS)
-
+**Tools**: Archive-It, ArchivesSpace, BagIt, Conifer, CONTENTdm, DataAccessioner, Omeka, SQL (MySQL), Tableau, The Museum System (TMS)  
 **Controlled Vocabularies**: EAD, DACS, LCSH, MARC, Nomenclature
