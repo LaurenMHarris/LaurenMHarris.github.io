@@ -7,15 +7,17 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hello world, my name is Lauren Harris and I’m a dedicated professional with experience in healthcare facilities 
+compliance, currently expanding my expertise by pursuing a graduate degree in Library and Information Science with 
+a specialization in Digital Curation. Through coursework on metadata, database design, digital preservation, and 
+electronic records management, I'm gaining the technical skills needed to tackle complex information challenges. 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+My practical experience is broad, having experience in healthcare, government, and higher education archives. This 
+blend of professional experience and ongoing education positions me uniquely within the field. 
+My particular interest lies in web archiving and ensuring the longevity of digital objects. I believe in the 
+importance of capturing and preserving our online world for historical and research purposes. I am excited to make 
+a lasting impact on the digital landscape.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+The purpose of this website is to house and redirect my various school projects, list coursework, and resume in a 
+central location and as a graduation requirement. 
 
-PS: If you liked the theme, do star it on GitHub!
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
