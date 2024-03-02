@@ -3,17 +3,15 @@
 
 ### EDUCATION
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+Indiana University Purdue University-Indianapolis <span style="float: right; ">2021-2024</span>  
+Master of Library and Information Science
+Specialization: Digital Curation
+**Revelant Coursework**  
+Database Design, Digital Curation and Management, Digital Preservation, Electronic Records Management, Metadata, and Tools for Digital Preservation  
  
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
-
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+Purdue University <span style="float: right; ">Dur2008-2012</span>  
+Bachelor of Arts in Communication
+Minor: Latin America and Latino Studies 
 
 ### EXPERIENCE
 
@@ -41,13 +39,5 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique. 
 
 ### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
-
-### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+**Tools**: Archive-It, ArchivesSpace, BagIt, Conifer, CONTENTdm, DataAccessioner, Omeka, SQL (MySQL), Tableau, The Museum System (TMS)
+**Controlled Vocabularies**: EAD, DACS, LCSH, MARC, Nomenclature
