@@ -9,7 +9,7 @@ Specialization: Digital Curation
 **Revelant Coursework**  
 Database Design, Digital Curation and Management, Digital Preservation, Electronic Records Management, Metadata, and Tools for Digital Preservation  
  
-Purdue University <span style="float: right; ">Dur2008-2012</span>  
+Purdue University <span style="float: right; ">2008-2012</span>  
 Bachelor of Arts in Communication  
 Minor: Latin America and Latino Studies 
 
