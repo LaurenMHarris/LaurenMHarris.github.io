@@ -5,7 +5,7 @@
 
 Indiana University Purdue University-Indianapolis <span style="float: right; ">2021-2024</span>  
 Master of Library and Information Science  
-Specialization: Digital Curation
+Specialization: Digital Curation  
 **Revelant Coursework**  
 Database Design, Digital Curation and Management, Digital Preservation, Electronic Records Management, Metadata, and Tools for Digital Preservation  
  
