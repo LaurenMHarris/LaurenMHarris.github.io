@@ -19,5 +19,5 @@ importance of capturing and preserving our online world for historical and resea
 a lasting impact on the digital landscape.
 
 The purpose of this website is to house and redirect my various school projects, list coursework, and resume in a 
-central location and as a graduation requirement. 
+central location as a graduation requirement. 
 
