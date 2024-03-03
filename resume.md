@@ -32,7 +32,7 @@ Regulatory Compliance Coordinator - **Medxcel** <span style="float: right; ">201
 Technologies used Microsoft Excel, Microsoft SharePoint, SmartSheet, Adobe Acobrat  
 
 Legislaive Assistant - **Indiana House of Representatives** <span style="float: right; ">2014-2017</span>  
-- •	Drafted official and constituent correspondence for three legislators 
+- Drafted official and constituent correspondence for three legislators 
 - Covered Utilities, Energy and Telecommunications Committee for Caucus providing prompt summaries post-committee meetings 
 - Researched and tracked legislation policy using legal databases
 - Supervised and mentored ~12 legislative interns during session  
@@ -40,8 +40,6 @@ Technologies used WestLaw database, Microsoft Word
 
 ### PRESENTATION  
 Sim, R., Hijazi, R., & **Harris, L. M.**  The Purpose of Creation and Beyond. Midwest Archives Conference. Chicago, IL, April 2023. <https://hdl.handle.net/1805/32539>
-
-
 
 ### SKILLS
 **Tools**: Archive-It, ArchivesSpace, BagIt, Conifer, CONTENTdm, DataAccessioner, Omeka, SmartSheet, SQL (MySQL), Tableau, The Museum System (TMS)  
