@@ -3,8 +3,7 @@ layout: post
 title:  "MLIS Coursework"
 ---
 
-# MLIS Coursework
-As part of my gradaution requirement I am including the courses I completed to receive my degree.  
+As part of my graduation requirement, I am including the courses I completed to receive my degree.  
 My specialization was digital curation and I wanted to take courses to improve my technical skills and have the rigor of a graduate program. The requirements for my degree can be found [here](https://luddy.iupui.edu/degrees/masters/mlis/digital-curation.html).  
 
 **Foundation**    
@@ -25,7 +24,7 @@ LIS-S 555: Digital Services Management
 LIS-S 651: Digital Collections  
 
 **Electives**   
-LIS-S 503: Organizaiton and Represernation of Knowledge and Information  
+LIS-S 503: Organization and Representation of Knowledge and Information  
 LIS-S 506: Introduction to Research  
 LIS-S 604: Tools for Digital Preservation  
 LIS-S 685: Electronic Records Management 
