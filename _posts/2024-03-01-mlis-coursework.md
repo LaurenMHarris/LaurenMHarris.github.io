@@ -7,7 +7,7 @@ LIS-S 501: Information Sources and Services
 LIS-S 581: Archives and Records Management  
 **Metadata requirement**  
 LIS-S 634: Metadata  
-Technical requirement  
+**Technical requirement**  
 LIS-S 511: Database Design  
 **Specialization Core**   
 LIS-S 582: Digital Preservation  
