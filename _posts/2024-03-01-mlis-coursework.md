@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "MLIS Coursework"
+---
+
 # MLIS Coursework
 As part of my gradaution requirement I am including the courses I completed to receive my degree.  
 My specialization was digital curation and I wanted to take courses to improve my technical skills and have the rigor of a graduate program. The requirements for my degree can be found [here](https://luddy.iupui.edu/degrees/masters/mlis/digital-curation.html).  
